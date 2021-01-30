@@ -11,6 +11,3 @@ This branch was created to practice commit changes and pull requests
 
 
 
-|          | Associated With| Description|
-|--------------|--------------|--------------|
-|Acknowledgements| NIDM, BIDS|OPTIONAL. Text acknowledging contributions of individuals or institutions beyond those listed in Authors or Funding.|
